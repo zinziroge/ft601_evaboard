@@ -1,0 +1,224 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "8be20f73-13e5-43d5-87e6-190089aa5e01")
+	(paper "A4")
+	(lib_symbols)
+	(sheet
+		(at 109.22 71.12)
+		(size 12.7 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "1e3e9b04-66c9-48aa-9a4e-e475008c1d3d")
+		(property "Sheetname" "usb3.0"
+			(at 109.22 70.4084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "usb3.0.kicad_sch"
+			(at 109.22 84.4046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ft601_module"
+				(path "/8be20f73-13e5-43d5-87e6-190089aa5e01"
+					(page "2")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 149.86 71.12)
+		(size 12.7 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "4617dac6-5fcc-44fd-9b5e-274f7c9c96e3")
+		(property "Sheetname" "fpga"
+			(at 149.86 70.4084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "fpga.kicad_sch"
+			(at 149.86 84.4046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ft601_module"
+				(path "/8be20f73-13e5-43d5-87e6-190089aa5e01"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 223.52 71.12)
+		(size 12.7 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "5744c060-b48f-4c11-91fc-22fd5b6c2e76")
+		(property "Sheetname" "power"
+			(at 223.52 70.4084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "power.kicad_sch"
+			(at 223.52 84.4046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ft601_module"
+				(path "/8be20f73-13e5-43d5-87e6-190089aa5e01"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 187.96 71.12)
+		(size 12.7 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "73e9b8c6-ed49-4b4a-a9c0-59ca8f8ab3f8")
+		(property "Sheetname" "usb3.0_sub"
+			(at 187.96 70.4084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "usb3.0_sub.kicad_sch"
+			(at 187.96 84.4046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ft601_module"
+				(path "/8be20f73-13e5-43d5-87e6-190089aa5e01"
+					(page "5")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 66.04 71.12)
+		(size 12.7 12.7)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "91c67be0-c784-4973-9d48-c1cacc86d8e2")
+		(property "Sheetname" "ft601"
+			(at 66.04 70.4084 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "ft601.kicad_sch"
+			(at 66.04 84.4046 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+			)
+		)
+		(instances
+			(project "ft601_module"
+				(path "/8be20f73-13e5-43d5-87e6-190089aa5e01"
+					(page "3")
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
