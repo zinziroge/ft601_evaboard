@@ -1,4 +1,4 @@
-26612031774251014
+26626202781100538
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -96775,6 +96775,13 @@ rotary encoder illuminated switch vertical
 9
 8
 SamaSys_Parts
+BEADC1608X95N
+GZ1608D601TF*-*
+Ferrite Bead
+0
+2
+2
+SamaSys_Parts
 BEADC3216X130N
 HI1206T500R-10
 Ferrite Bead
@@ -96875,6 +96882,13 @@ LED
 SamaSys_Parts
 LEDC1608X70N
 0603
+LED
+0
+2
+2
+SamaSys_Parts
+LEDC2012X120N
+2mmx1.25mm
 LED
 0
 2
@@ -97026,6 +97040,20 @@ Transformer
 0
 16
 16
+SamaSys_Parts
+SOIC127P1030X265-20N
+TPIC6B595DWR
+Integrated Circuit
+0
+20
+20
+SamaSys_Parts
+SOIC127P1032X285-18N
+P-SOP18-0812-1.27-001
+Integrated Circuit
+0
+18
+18
 SamaSys_Parts
 SOT95P280X100-6N
 6-pin thin sot-23(d6)
@@ -106246,6 +106274,27 @@ AMPHENOL_RJMG1S8008101BR
 10
 10
 me
+BGA24C100P5X5_600X800X100
+Original name BGA24C100P5X5_600X800X100{return}{return}Max Component Height - 1mm
+
+0
+24
+24
+me
+CON15_1X15_DRB_SFW_FCI
+
+SFW15R-2STE1LF 
+0
+17
+17
+me
+CONN22x1_FH34SRJ-22S-0.5SH50_HIR
+
+FH34SRJ-22S-0.5SH50 
+0
+24
+24
+me
 CONN_12401598E4-2A_AMP
 
 12401598E4-2A 
@@ -106266,6 +106315,13 @@ EXB28V330JX
 0
 8
 8
+me
+Cree_CLQ6B-TKW
+
+
+0
+0
+0
 me
 DQA0010A
 

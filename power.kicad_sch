@@ -688,7 +688,7 @@
 			)
 			(embedded_fonts no)
 		)
-		(symbol "SamacSys_Parts:HI1206N101R-00"
+		(symbol "SamacSys_Parts:GZ1608D601TF"
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
@@ -701,7 +701,7 @@
 					(justify left top)
 				)
 			)
-			(property "Value" "HI1206N101R-00"
+			(property "Value" "GZ1608D601TF"
 				(at 16.51 5.08 0)
 				(effects
 					(font
@@ -710,7 +710,7 @@
 					(justify left top)
 				)
 			)
-			(property "Footprint" "BEADC3216X130N"
+			(property "Footprint" "BEADC1608X95N"
 				(at 16.51 -94.92 0)
 				(effects
 					(font
@@ -720,7 +720,7 @@
 					(hide yes)
 				)
 			)
-			(property "Datasheet" "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-32/DSA-630090.pdf"
+			(property "Datasheet" "https://datasheet.lcsc.com/szlcsc/Sunlord-GZ1608D601TF_C1002.pdf"
 				(at 16.51 -194.92 0)
 				(effects
 					(font
@@ -730,7 +730,7 @@
 					(hide yes)
 				)
 			)
-			(property "Description" "High Current Ferrite Bead"
+			(property "Description" "Multilayer Chip Ferrite Bead"
 				(at 0 0 0)
 				(effects
 					(font
@@ -739,7 +739,7 @@
 					(hide yes)
 				)
 			)
-			(property "Height" "1.3"
+			(property "Height" "0.95"
 				(at 16.51 -394.92 0)
 				(effects
 					(font
@@ -749,7 +749,7 @@
 					(hide yes)
 				)
 			)
-			(property "Manufacturer_Name" "Laird-Signal Integrity Products"
+			(property "Manufacturer_Name" "SUNLORD"
 				(at 16.51 -494.92 0)
 				(effects
 					(font
@@ -759,7 +759,7 @@
 					(hide yes)
 				)
 			)
-			(property "Manufacturer_Part_Number" "HI1206N101R-00"
+			(property "Manufacturer_Part_Number" "GZ1608D601TF"
 				(at 16.51 -594.92 0)
 				(effects
 					(font
@@ -809,7 +809,7 @@
 					(hide yes)
 				)
 			)
-			(symbol "HI1206N101R-00_1_1"
+			(symbol "GZ1608D601TF_1_1"
 				(rectangle
 					(start 5.08 2.54)
 					(end 15.24 -5.08)
@@ -3657,6 +3657,148 @@
 		)
 	)
 	(symbol
+		(lib_id "SamacSys_Parts:GZ1608D601TF")
+		(at 107.95 116.84 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1217fdd2-834f-41a8-9d7e-1d1b53347eb2")
+		(property "Reference" "FB3"
+			(at 114.3 105.4099 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "GZ1608D601TF"
+			(at 114.3 107.9499 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "SamaSys_Parts:BEADC1608X95N"
+			(at 202.87 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/szlcsc/Sunlord-GZ1608D601TF_C1002.pdf"
+			(at 302.87 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Multilayer Chip Ferrite Bead"
+			(at 107.95 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.95"
+			(at 502.87 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "SUNLORD"
+			(at 602.87 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GZ1608D601TF"
+			(at 702.87 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 802.87 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 902.87 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 1002.87 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 1102.87 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "30aa1487-9fd1-4eec-abb0-259a61c45380")
+		)
+		(pin "1"
+			(uuid "f2da99b3-3594-44d3-a372-514024e5a415")
+		)
+		(instances
+			(project "ft601_module"
+				(path "/8be20f73-13e5-43d5-87e6-190089aa5e01/5744c060-b48f-4c11-91fc-22fd5b6c2e76"
+					(reference "FB3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:VCC")
 		(at 157.48 115.57 0)
 		(unit 1)
@@ -4325,147 +4467,6 @@
 			(project "ft601_module"
 				(path "/8be20f73-13e5-43d5-87e6-190089aa5e01/5744c060-b48f-4c11-91fc-22fd5b6c2e76"
 					(reference "#PWR037")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SamacSys_Parts:HI1206N101R-00")
-		(at 38.1 162.56 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "3580968b-b6ea-4f2c-90ce-e017a6f75927")
-		(property "Reference" "FB2"
-			(at 32.766 143.002 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "HI1206N101R-00"
-			(at 32.766 145.542 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "SamaSys_Parts:BEADC3216X130N"
-			(at 133.02 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-32/DSA-630090.pdf"
-			(at 233.02 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "High Current Ferrite Bead"
-			(at 38.1 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "1.3"
-			(at 433.02 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Laird-Signal Integrity Products"
-			(at 533.02 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "HI1206N101R-00"
-			(at 633.02 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" ""
-			(at 733.02 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" ""
-			(at 833.02 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Arrow Part Number" ""
-			(at 933.02 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Arrow Price/Stock" ""
-			(at 1033.02 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bdb127a4-84cb-4cbd-b7c2-5c3155eb1144")
-		)
-		(pin "2"
-			(uuid "f1610c07-753f-4f14-aa31-dbb523bb798f")
-		)
-		(instances
-			(project "ft601_module"
-				(path "/8be20f73-13e5-43d5-87e6-190089aa5e01/5744c060-b48f-4c11-91fc-22fd5b6c2e76"
-					(reference "FB2")
 					(unit 1)
 				)
 			)
@@ -6367,6 +6368,148 @@
 		)
 	)
 	(symbol
+		(lib_id "SamacSys_Parts:GZ1608D601TF")
+		(at 38.1 162.56 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "989b0f73-7df3-471a-a6ca-005ee79deb79")
+		(property "Reference" "FB1"
+			(at 44.45 151.1299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "GZ1608D601TF"
+			(at 44.45 153.6699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "SamaSys_Parts:BEADC1608X95N"
+			(at 133.02 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/szlcsc/Sunlord-GZ1608D601TF_C1002.pdf"
+			(at 233.02 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Multilayer Chip Ferrite Bead"
+			(at 38.1 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.95"
+			(at 433.02 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "SUNLORD"
+			(at 533.02 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GZ1608D601TF"
+			(at 633.02 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 733.02 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 833.02 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 933.02 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 1033.02 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f7335766-7234-4a99-b510-049cb94d89ee")
+		)
+		(pin "1"
+			(uuid "9597f6d4-a0f8-4383-a890-7bd8715d1238")
+		)
+		(instances
+			(project ""
+				(path "/8be20f73-13e5-43d5-87e6-190089aa5e01/5744c060-b48f-4c11-91fc-22fd5b6c2e76"
+					(reference "FB1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:VCC")
 		(at 48.26 162.56 0)
 		(unit 1)
@@ -6492,147 +6635,6 @@
 			(project "ft601_module"
 				(path "/8be20f73-13e5-43d5-87e6-190089aa5e01/5744c060-b48f-4c11-91fc-22fd5b6c2e76"
 					(reference "#PWR077")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SamacSys_Parts:HI1206N101R-00")
-		(at 55.88 162.56 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "9e7ad641-9647-42c6-a41c-2db2617b321e")
-		(property "Reference" "FB3"
-			(at 50.546 143.002 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "HI1206N101R-00"
-			(at 50.546 145.542 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "SamaSys_Parts:BEADC3216X130N"
-			(at 150.8 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-32/DSA-630090.pdf"
-			(at 250.8 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "High Current Ferrite Bead"
-			(at 55.88 162.56 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "1.3"
-			(at 450.8 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Laird-Signal Integrity Products"
-			(at 550.8 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "HI1206N101R-00"
-			(at 650.8 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" ""
-			(at 750.8 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" ""
-			(at 850.8 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Arrow Part Number" ""
-			(at 950.8 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Arrow Price/Stock" ""
-			(at 1050.8 146.05 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "87780c23-1ac1-48bb-b608-84fd4534aabd")
-		)
-		(pin "2"
-			(uuid "015b6cc4-baf6-4003-8be9-2fb892038bae")
-		)
-		(instances
-			(project "ft601_module"
-				(path "/8be20f73-13e5-43d5-87e6-190089aa5e01/5744c060-b48f-4c11-91fc-22fd5b6c2e76"
-					(reference "FB3")
 					(unit 1)
 				)
 			)
@@ -7321,6 +7323,148 @@
 			(project "ft601_module"
 				(path "/8be20f73-13e5-43d5-87e6-190089aa5e01/5744c060-b48f-4c11-91fc-22fd5b6c2e76"
 					(reference "#PWR048")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SamacSys_Parts:GZ1608D601TF")
+		(at 55.88 162.56 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cba2bf08-122a-45c7-953c-7cd97590c1ff")
+		(property "Reference" "FB2"
+			(at 62.23 151.1299 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "GZ1608D601TF"
+			(at 62.23 153.6699 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "SamaSys_Parts:BEADC1608X95N"
+			(at 150.8 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "https://datasheet.lcsc.com/szlcsc/Sunlord-GZ1608D601TF_C1002.pdf"
+			(at 250.8 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Description" "Multilayer Chip Ferrite Bead"
+			(at 55.88 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Height" "0.95"
+			(at 450.8 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Name" "SUNLORD"
+			(at 550.8 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer_Part_Number" "GZ1608D601TF"
+			(at 650.8 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Part Number" ""
+			(at 750.8 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Mouser Price/Stock" ""
+			(at 850.8 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Part Number" ""
+			(at 950.8 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(property "Arrow Price/Stock" ""
+			(at 1050.8 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "8915d29e-aa9b-448f-ac07-e98c8cc9bf5e")
+		)
+		(pin "1"
+			(uuid "cca25510-7780-40c4-9c31-8d2a047031f3")
+		)
+		(instances
+			(project "ft601_module"
+				(path "/8be20f73-13e5-43d5-87e6-190089aa5e01/5744c060-b48f-4c11-91fc-22fd5b6c2e76"
+					(reference "FB2")
 					(unit 1)
 				)
 			)
@@ -8331,147 +8475,6 @@
 			(project "ft601_module"
 				(path "/8be20f73-13e5-43d5-87e6-190089aa5e01/5744c060-b48f-4c11-91fc-22fd5b6c2e76"
 					(reference "#PWR036")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SamacSys_Parts:HI1206N101R-00")
-		(at 107.95 116.84 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "f5bc3c21-cc16-4984-b9c4-7cf0b1fe0537")
-		(property "Reference" "FB1"
-			(at 102.616 97.282 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "HI1206N101R-00"
-			(at 102.616 99.822 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "SamaSys_Parts:BEADC3216X130N"
-			(at 202.87 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "https://datasheet.datasheetarchive.com/originals/distributors/Datasheets-32/DSA-630090.pdf"
-			(at 302.87 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Description" "High Current Ferrite Bead"
-			(at 107.95 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Height" "1.3"
-			(at 502.87 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Name" "Laird-Signal Integrity Products"
-			(at 602.87 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Manufacturer_Part_Number" "HI1206N101R-00"
-			(at 702.87 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Part Number" ""
-			(at 802.87 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Mouser Price/Stock" ""
-			(at 902.87 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Arrow Part Number" ""
-			(at 1002.87 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(property "Arrow Price/Stock" ""
-			(at 1102.87 100.33 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left top)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "bf5a04a0-10f3-4061-9a5b-5fb9acb2c5ae")
-		)
-		(pin "2"
-			(uuid "5b5dae39-9672-4cca-ab21-eb84b0dc6e5e")
-		)
-		(instances
-			(project "ft601_module"
-				(path "/8be20f73-13e5-43d5-87e6-190089aa5e01/5744c060-b48f-4c11-91fc-22fd5b6c2e76"
-					(reference "FB1")
 					(unit 1)
 				)
 			)
